@@ -1,0 +1,4 @@
+test
+input
+file
+similar to *nix 'cat'
