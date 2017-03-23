@@ -2,3 +2,6 @@ libuv is a cross-platform C support library focusing on asynchronous I/O. It was
 
 These examples track my reading and learning from nikhilm's book here:
 http://nikhilm.github.io/uvbook/
+
+Why learn about the libuv library? NodeJs uses the libuv library to implement its mainn event loop.
+
